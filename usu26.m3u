@@ -1,9 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TL Novelas Univision" tvg-logo="" group-title="Sin categoría", TL Novelas Univision
-http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/135439
-#EXTINF:-1 tvg-name="Canal 26" tvg-logo="http://vivalivetv.net/wp-content/uploads/2017/08/portfolio_channels_canal26argentina.png" group-title="Noticias", Canal 26
-http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/490438
-#EXTINF:-1 tvg-name="Cronica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="Noticias", Cronica
-http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/490452
-#EXTINF:-1 tvg-name="Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pasiones_Tv_logo.svg" group-title="Novelas", Pasiones
-http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/135435
+#EXTINF:-1 tvg-name="RADIO BIO BIO (CONCEPCION)" tvg-logo="http://goldfull.pro:8880/images/1c852f7b8fa5086326f971bfd88961cb.png" group-title=" RADIOS CHILE", RADIO BIO BIO (CONCEPCION)
+http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/166707
+#EXTINF:-1 tvg-name="RADIO BIO BIO (LOS ANGELES)" tvg-logo="http://goldfull.pro:8880/images/1c852f7b8fa5086326f971bfd88961cb.png" group-title=" RADIOS CHILE", RADIO BIO BIO (LOS ANGELES)
+http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/166708
+#EXTINF:-1 tvg-name="RADIO BIO BIO (TEMUCO)" tvg-logo="http://goldfull.pro:8880/images/1c852f7b8fa5086326f971bfd88961cb.png" group-title=" RADIOS CHILE", RADIO BIO BIO (TEMUCO)
+http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/166709
+#EXTINF:-1 tvg-name="RADIO BIO BIO (OSORNO)" tvg-logo="http://goldfull.pro:8880/images/1c852f7b8fa5086326f971bfd88961cb.png" group-title=" RADIOS CHILE", RADIO BIO BIO (OSORNO)
+http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/166710
+#EXTINF:-1 tvg-name="RADIO BIO BIO (VALDIVIA)" tvg-logo="http://goldfull.pro:8880/images/1c852f7b8fa5086326f971bfd88961cb.png" group-title=" RADIOS CHILE", RADIO BIO BIO (VALDIVIA)
+http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/166711
+#EXTINF:-1 tvg-name="RADIO BIO BIO (PUERTO MONTT)" tvg-logo="http://goldfull.pro:8880/images/1c852f7b8fa5086326f971bfd88961cb.png" group-title=" RADIOS CHILE", RADIO BIO BIO (PUERTO MONTT)
+http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/166712
+#EXTINF:-1 tvg-name="RADIO PUDAHUEL" tvg-logo="http://goldfull.pro:8880/images/6f79fafb3db8070b9e56af4aae127284.png" group-title=" RADIOS CHILE", RADIO PUDAHUEL
+http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/166713
+#EXTINF:-1 tvg-name="RADIO ARAUCANA (TEMUCO)" tvg-logo="http://goldfull.pro:8880/images/28549c31aec3e6498877bf73a10e53f4.png" group-title=" RADIOS CHILE", RADIO ARAUCANA (TEMUCO)
+http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/166714
+#EXTINF:-1 tvg-name="RADIO COOPERATIVA" tvg-logo="http://goldfull.pro:8880/images/5c5dc0fa42fe80d95cf86b8c4f28ae57.jpg" group-title=" RADIOS CHILE", RADIO COOPERATIVA
+http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/166715
+#EXTINF:-1 tvg-name="RADIO ADN" tvg-logo="http://goldfull.pro:8880/images/7ca61527e084dfdc18259f5f2290c1d4.png" group-title=" RADIOS CHILE", RADIO ADN
+http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/166716
+#EXTINF:-1 tvg-name="RADIO ROCK AND POP" tvg-logo="http://goldfull.pro:8880/images/7276782a37970dc095c137506e305f18.jpg" group-title=" RADIOS CHILE", RADIO ROCK AND POP
+http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/166717
+#EXTINF:-1 tvg-name="PUNTO 7 (VALPARAISO)" tvg-logo="http://goldfull.pro:8880/images/86526fb3f5731fd6ba02725f190b3646.png" group-title=" RADIOS CHILE", PUNTO 7 (VALPARAISO)
+http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/166718
+#EXTINF:-1 tvg-name="RADIO FMDOS" tvg-logo="http://goldfull.pro:8880/images/8daa3953f44324f45d1fe243d48e4429.jpeg" group-title=" RADIOS CHILE", RADIO FMDOS
+http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/166719
+#EXTINF:-1 tvg-name="RADIO LOS 40" tvg-logo="http://goldfull.pro:8880/images/a0dcde2c52b65fa988187b2917b7b5d0.jpg" group-title=" RADIOS CHILE", RADIO LOS 40
+http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/166720
+#EXTINF:-1 tvg-name="RADIO POSITIVA" tvg-logo="http://goldfull.pro:8880/images/d32f0b55d1485328a0e19d5a9783847b.png" group-title=" RADIOS CHILE", RADIO POSITIVA
+http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/166721
+#EXTINF:-1 tvg-name="RADIO IMAGINA" tvg-logo="http://goldfull.pro:8880/images/bd419d8e64bc0adc4c4c9f4f8ada1208.jpg" group-title=" RADIOS CHILE", RADIO IMAGINA
+http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/166722
+#EXTINF:-1 tvg-name="RADIO LA RETRO 80S" tvg-logo="http://goldfull.pro:8880/images/238dd81e9838d9dd83fe128d14059335.jpg" group-title=" RADIOS CHILE", RADIO LA RETRO 80S
+http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/166723
+#EXTINF:-1 tvg-name="RADIO ACTIVA" tvg-logo="http://goldfull.pro:8880/images/3eb3070af73df133407664783e5b8bf5.jpg" group-title=" RADIOS CHILE", RADIO ACTIVA
+http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/166724
+#EXTINF:-1 tvg-name="RADIO FUTURO" tvg-logo="http://goldfull.pro:8880/images/c7e159bcbf2fd5ed819b2524f946dd82.png" group-title=" RADIOS CHILE", RADIO FUTURO
+http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/166725
+#EXTINF:-1 tvg-name="RADIO LAS COLINAS (CARAHUE)" tvg-logo="http://goldfull.pro:8880/images/ceb18aa0bd3880df6293517365640d17.jpg" group-title=" RADIOS CHILE", RADIO LAS COLINAS (CARAHUE)
+http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/166726
+#EXTINF:-1 tvg-name="RADIO ANGEL(CARAHUE)" tvg-logo="http://goldfull.pro:8880/images/b4be5705d4af6f4118b095c87842bd4e.png" group-title=" RADIOS CHILE", RADIO ANGEL(CARAHUE)
+http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/166727
+#EXTINF:-1 tvg-name="RADIO CAROLINA" tvg-logo="http://goldfull.pro:8880/images/a880c892a070204394fd83d7c6e0f9e7.jpg" group-title=" RADIOS CHILE", RADIO CAROLINA
+http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/166728
+#EXTINF:-1 tvg-name="RADIO DECADA DE LOS 90S" tvg-logo="http://goldfull.pro:8880/images/0c45f8a2da7c90614882959bc2d82bd8.jpg" group-title=" RADIOS CHILE", RADIO DECADA DE LOS 90S
+http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/166729
