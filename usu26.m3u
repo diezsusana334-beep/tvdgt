@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="247 canal de noticias" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="TV Digital", 247 canal de noticias
-https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 #EXTINF:-1 tvg-name="5TV Corrientes (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="TV Digital", 5TV Corrientes (480p) [Not 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-name="Aire de Santa Fe (1080p)" tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="TV Digital", Aire de Santa Fe (1080p)
