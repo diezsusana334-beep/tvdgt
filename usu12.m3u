@@ -1,3 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="TL Novelas Univision" tvg-logo="" group-title="Sin categoría", TL Novelas Univision
+http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/135439
+#EXTINF:-1 tvg-name="Canal 26" tvg-logo="" group-title="Noticias", Canal 26
+#EXTINF:-1,(OFFLINE) ARG | CANAL 26 HD http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/490438
 #EXTINF:-1 tvg-name="Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pasiones_Tv_logo.svg" group-title="Novelas", Pasiones
 http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/135435
