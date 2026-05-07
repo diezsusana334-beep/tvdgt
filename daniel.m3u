@@ -1,1 +1,27 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="TN Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png" group-title="Noticias", TN Todo Noticias
+https://tvdigital.unaux.com/stream_proxy.php?token=6G19NIG3FR23&canal=3140
+#EXTINF:-1 tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/C5N_logo.svg/1200px-C5N_logo.svg.png" group-title="Noticias", C5N
+https://tvdigital.unaux.com/stream_proxy.php?token=6G19NIG3FR23&canal=3141
+#EXTINF:-1 tvg-name="IP Noticias" tvg-logo="https://i.imgur.com/lC5kYoM.png" group-title="Noticias", IP Noticias
+https://tvdigital.unaux.com/stream_proxy.php?token=6G19NIG3FR23&canal=3142
+#EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://i.imgur.com/cMBXWJb.png" group-title="Noticias", Canal 26
+https://tvdigital.unaux.com/stream_proxy.php?token=6G19NIG3FR23&canal=3143
+#EXTINF:-1 tvg-name="Cr?nica TV" tvg-logo="https://i.imgur.com/W82KGJX.png" group-title="Noticias", Cr?nica TV
+https://tvdigital.unaux.com/stream_proxy.php?token=6G19NIG3FR23&canal=3144
+#EXTINF:-1 tvg-name="TV P?blica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Tvp-logotipo-512.png/200px-Tvp-logotipo-512.png" group-title="General", TV P?blica
+https://tvdigital.unaux.com/stream_proxy.php?token=6G19NIG3FR23&canal=3152
+#EXTINF:-1 tvg-name="DW Espa?ol" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Internacional", DW Espa?ol
+https://tvdigital.unaux.com/stream_proxy.php?token=6G19NIG3FR23&canal=3145
+#EXTINF:-1 tvg-name="France 24 Espa?ol" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="Internacional", France 24 Espa?ol
+https://tvdigital.unaux.com/stream_proxy.php?token=6G19NIG3FR23&canal=3146
+#EXTINF:-1 tvg-name="RT en Espa?ol" tvg-logo="https://i.imgur.com/WpBy9SZ.png" group-title="Internacional", RT en Espa?ol
+https://tvdigital.unaux.com/stream_proxy.php?token=6G19NIG3FR23&canal=3147
+#EXTINF:-1 tvg-name="Euronews Espa?ol" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="Internacional", Euronews Espa?ol
+https://tvdigital.unaux.com/stream_proxy.php?token=6G19NIG3FR23&canal=3148
+#EXTINF:-1 tvg-name="Canal Rural" tvg-logo="https://i.imgur.com/TGfvHKm.png" group-title="Entretenimiento", Canal Rural
+https://tvdigital.unaux.com/stream_proxy.php?token=6G19NIG3FR23&canal=3149
+#EXTINF:-1 tvg-name="Music Top" tvg-logo="https://i.imgur.com/9kZRu1e.png" group-title="M?sica", Music Top
+https://tvdigital.unaux.com/stream_proxy.php?token=6G19NIG3FR23&canal=3150
+#EXTINF:-1 tvg-name="Canal de la Ciudad" tvg-logo="https://i.imgur.com/6rpLxWW.png" group-title="Buenos Aires", Canal de la Ciudad
+https://tvdigital.unaux.com/stream_proxy.php?token=6G19NIG3FR23&canal=3151
