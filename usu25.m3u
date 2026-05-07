@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TL Novelas Univision" tvg-logo="" group-title="Sin categoría", TL Novelas Univision
-http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/135439
-#EXTINF:-1 tvg-name="Canal 26" tvg-logo="http://vivalivetv.net/wp-content/uploads/2017/08/portfolio_channels_canal26argentina.png" group-title="Noticias", Canal 26
-http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/490438
-#EXTINF:-1 tvg-name="Cronica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="Noticias", Cronica
-http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/490452
-#EXTINF:-1 tvg-name="Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pasiones_Tv_logo.svg" group-title="Novelas", Pasiones
-http://rlatinop.com:8880/ermrmsqutt/6WYPqa6YvfHQ/135435
+#EXTINF:-1, CUENTA PAUSADO
+http://ejemplo.com/mensaje.mp4
