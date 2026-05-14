@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="pasion" tvg-logo="" group-title="Sin categoría", pasion
+https://tvdigital.unaux.com/stream_proxy.php?token=SFT16OUGFT4V&canal=3276
+#EXTINF:-1 tvg-name="C5N" tvg-logo="" group-title="Noticias", C5N
+https://tvdigital.unaux.com/stream_proxy.php?token=SFT16OUGFT4V&canal=3277
