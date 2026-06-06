@@ -13,6 +13,8 @@ https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Canal 22 Buenos Aires | AR" tvg-logo="https://cdn.m3u.cl/logo/230_Canal_22_Buenos_Aires.png" group-title="Provincia", Canal 22 Buenos Aires | AR
 https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="Canal 3 Formosa | AR" tvg-logo="https://cdn.m3u.cl/logo/1347_Canal_3_Formosa.png" group-title="Provincia", Canal 3 Formosa | AR
+https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="+ Listas en M3U.CL  | CL" tvg-logo="https://cdn.m3u.cl/logo/156___Listas_en_M3U_CL.png" group-title="Sin categor?a", + Listas en M3U.CL  | CL
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Canal 5 del Pueblo  | AR" tvg-logo="https://cdn.m3u.cl/logo/858_Canal_5_del_Pueblo.png" group-title="Sin categor?a", Canal 5 del Pueblo  | AR
@@ -61,8 +63,6 @@ https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8?PlaylistM3UC
 https://stream.arcast.net:4443/mp/mp/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Canal 2 Misiones | AR" tvg-logo="https://cdn.m3u.cl/logo/1182_Canal_2_Misiones.png" group-title="Sin categor?a", Canal 2 Misiones | AR
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Canal 3 Formosa | AR" tvg-logo="https://cdn.m3u.cl/logo/1347_Canal_3_Formosa.png" group-title="Sin categor?a", Canal 3 Formosa | AR
-https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Canal 3 La Pampa | AR" tvg-logo="https://cdn.m3u.cl/logo/776_Canal_3_La_Pampa.png" group-title="Sin categor?a", Canal 3 La Pampa | AR
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Canal 3 Las Heras | AR" tvg-logo="https://cdn.m3u.cl/logo/231_Canal_3_Las_Heras.png" group-title="Sin categor?a", Canal 3 Las Heras | AR
