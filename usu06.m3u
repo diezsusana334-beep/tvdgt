@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Mundo de la Musica TV  | CL" tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png" group-title="Música", Mundo de la Musica TV  | CL
+https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Retro Plus TV  | CL" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Música", Retro Plus TV  | CL
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Music Top | AR" tvg-logo="https://cdn.m3u.cl/logo/24_Music_Top.png" group-title="Música", Music Top | AR
@@ -27,8 +29,6 @@ https://stmv1.voxtvhd.com.br/urbanamas/urbanamas/playlist.m3u8?PlaylistM3UCL
 http://192.100.186.53:8090/hls/live.stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="UCL Televisi?n LATAM  | UY" tvg-logo="https://cdn.m3u.cl/logo/494_UCL_Television_LATAM.png" group-title="Sin categor?a", UCL Televisi?n LATAM  | UY
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Mundo de la Musica TV  | CL" tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png" group-title="Sin categor?a", Mundo de la Musica TV  | CL
-https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Anime Zone TV | AR" tvg-logo="https://cdn.m3u.cl/logo/488_Anime_Zone_TV.png" group-title="Sin categor?a", Anime Zone TV | AR
 http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Locomotion | AR" tvg-logo="https://cdn.m3u.cl/logo/50_Locomotion.png" group-title="Sin categor?a", Locomotion | AR
