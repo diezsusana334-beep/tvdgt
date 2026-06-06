@@ -3,6 +3,8 @@
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Retro Plus TV Se?al 2 | CL" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="Música", Retro Plus TV Se?al 2 | CL
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="Retro Plus TV Se?al 3 | CL" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Música", Retro Plus TV Se?al 3 | CL
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="+ Listas en M3U.CL  | CL" tvg-logo="https://cdn.m3u.cl/logo/156___Listas_en_M3U_CL.png" group-title="Sin categor?a", + Listas en M3U.CL  | CL
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Canal 5 del Pueblo  | AR" tvg-logo="https://cdn.m3u.cl/logo/858_Canal_5_del_Pueblo.png" group-title="Sin categor?a", Canal 5 del Pueblo  | AR
@@ -271,8 +273,6 @@ https://tv.streamcasthd.com:3553/live/sonidosurtvlive.m3u8?PlaylistM3UCL
 https://lbgo.bozztv.com/ssh101/ssh101/noticiastoday/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="ZN Noticias | AR" tvg-logo="https://cdn.m3u.cl/logo/775_ZN_Noticias.png" group-title="Sin categor?a", ZN Noticias | AR
 https://stmv3.voxtvhd.com.br/znnoticias/znnoticias/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Retro Plus TV Se?al 3 | CL" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Sin categor?a", Retro Plus TV Se?al 3 | CL
-https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Inminente TV | AR" tvg-logo="https://cdn.m3u.cl/logo/1462_Inminente_TV.png" group-title="Sin categor?a", Inminente TV | AR
 https://tuvideoonline.com.ar:3673/live/ideasdelcielolive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Monte Grande | AR" tvg-logo="https://cdn.m3u.cl/logo/1620_Monte_Grande.png" group-title="Sin categor?a", Monte Grande | AR
