@@ -3,3 +3,5 @@
 http://tv.zeuspro.xyz:8080/live/YolandaF0993/f2c070a271d7/157572.m3u8
 #EXTINF:-1 tvg-name="CANAL 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/330px-Canal_26_logo_%282022%29.svg.png" group-title="Noticias", CANAL 26
 http://tv.zeuspro.xyz:8080/live/YolandaF0993/f2c070a271d7/157568.m3u8
+#EXTINF:-1 tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="Noticias", C5N
+http://tv.zeuspro.xyz:8080/live/YolandaF0993/f2c070a271d7/157566.m3u8
