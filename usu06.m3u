@@ -1247,6 +1247,8 @@ http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 https://noshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="MORTAL KOMBAT 2" tvg-logo="" group-title="Animation;Kids", MORTAL KOMBAT 2
 http://lotv.plus:80/play/eiyyCEqNMxNhJq51VMw2pFbATUv8w4ImsgIYsgmhOqLHYIaNvWOOEOccRi5pF6Wq
+#EXTINF:-1 tvg-name="MORTAL KOMBAT 2" tvg-logo="" group-title="Animation;Kids", MORTAL KOMBAT 2
+http://lotv.plus:80/play/eiyyCEqNMxNhJq51VMw2pFbATUv8w4ImsgIYsgmhOqLHYIaNvWOOEOccRi5pF6Wq
 #EXTINF:-1 tvg-name="Alterna TV (720p) [Not 24/7]" tvg-logo="https://tv.alterna.ar/alternatv.png" group-title="Culture;Documentary;Entertainment;General;Movies;Music", Alterna TV (720p) [Not 24/7]
 https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-name="3ABN Praise Him Music Network" tvg-logo="https://i.imgur.com/iBcqT8L.png" group-title="Music;Religious", 3ABN Praise Him Music Network
