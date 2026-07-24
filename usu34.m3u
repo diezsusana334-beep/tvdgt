@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Canal Prueba Noticias" tvg-logo="https://via.placeholder.com/300" group-title="Peliculas",Canal Prueba Noticias
+https://ejemplo.com/stream/noticias.m3u8
+#EXTINF:-1 tvg-name="Canal Prueba Deportes" tvg-logo="https://via.placeholder.com/300" group-title="Peliculas",Canal Prueba Deportes
+https://ejemplo.com/stream/deportes.m3u8
+#EXTINF:-1 tvg-name="Canal Prueba Noticias" tvg-logo="https://via.placeholder.com/300" group-title="Peliculas",Canal Prueba Noticias
+https://ejemplo.com/live/noticias.m3u8
+#EXTINF:-1 tvg-name="Canal Prueba Deportes" tvg-logo="https://via.placeholder.com/300" group-title="Peliculas",Canal Prueba Deportes
+https://ejemplo.com/live/deportes.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="" group-title="Peliculas",CNN
+http://servidor.com/cnn.m3u8
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="Peliculas",ESPN
+http://servidor.com/espn.m3u8
+#EXTINF:-1 tvg-name="CNN TEST" tvg-logo="" group-title="Peliculas",CNN TEST
+http://servidor.com/cnn-test.m3u8
+#EXTINF:-1 tvg-name="ESPN TEST" tvg-logo="" group-title="Peliculas",ESPN TEST
+http://servidor.com/espn-test.m3u8
+#EXTINF:-1 tvg-name="CNN TEST FINAL" tvg-logo="" group-title="Peliculas",CNN TEST FINAL
+http://servidor.com/cnn-final.m3u8
+#EXTINF:-1 tvg-name="Test Stream" tvg-logo="" group-title="Peliculas",Test Stream
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
