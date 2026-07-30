@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CANAL PRUEBA HD" tvg-logo="" group-title="Canales",CANAL PRUEBA HD
+https://cinemas.unaux.com/pro/stream.php?id=1&token=400136ecaa6836c17ed11daef5c8522db20c07c9ddb88bc2bdc963ce4c115ecc
+#EXTINF:-1 tvg-id="2" tvg-name="CANAL PRUEBA NUEVO" tvg-logo="" group-title="Pruebas",CANAL PRUEBA NUEVO
+https://cinemas.unaux.com/pro/stream.php?id=2&token=400136ecaa6836c17ed11daef5c8522db20c07c9ddb88bc2bdc963ce4c115ecc
